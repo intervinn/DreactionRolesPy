@@ -9,4 +9,9 @@ written in python 3.10.4 using disnake
 5. yay
 
 ## example
+```py
+from DreactionRolesPy import client
+client.run("token")
+# i know so easy to use except configuration
+```
 
